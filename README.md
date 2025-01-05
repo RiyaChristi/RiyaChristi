@@ -1,9 +1,9 @@
-# 👩‍💻 Riya Christi - Analytics Portfolio  
+# 👩‍💻 Riya Christi - Analytics Portfolio
 
 ## 🌟 About Me  
 Hi, I'm **Riya Christi**!
 
-I am a **Business Insights and Data Analytics professional** . I'm a dynamic and results-oriented analyst with a fervent enthusiasm for pushing the boundaries of technology. With a solid foundation in coding and knack for problem-solving, I'm on a mission to combine my technical expertise with a deep understanding of data analytics to unlock new opportunities for business growth. With a background in Information Technology, combined with my passion for data-driven decision-making, I am equipped with the skills and knowledge to thrive in the field of analytics. I am excited to leverage my skills to contribute to impactful projects and drive organizational success.
+I'm a dynamic and results-oriented **Business and Data Analyst** with a fervent enthusiasm for pushing the boundaries of technology. With a solid foundation in coding and knack for problem-solving, I'm on a mission to combine my technical expertise with a deep understanding of data analytics to unlock new opportunities for business growth. With a background in Information Technology, combined with my passion for data-driven decision-making, I am equipped with the skills and knowledge to thrive in the field of analytics. I am excited to leverage my skills to contribute to impactful projects and drive organizational success.
 
 With a strong foundation in data analytics and business intelligence, I excel at identifying patterns, interpreting trends, and delivering actionable insights. Whether collaborating in a team or working independently, I am driven by the challenge of finding innovative solutions through data. In my free time, I enjoy exploring emerging technologies and honing my technical skills. I am always eager to take on new challenges and expand my expertise in the ever-evolving world of analytics.
 
